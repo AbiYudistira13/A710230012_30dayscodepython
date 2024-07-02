@@ -1,0 +1,1 @@
+Pickup: nogosari, Destination: ums, Vehicle: Motor
